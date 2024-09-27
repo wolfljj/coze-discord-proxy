@@ -1,0 +1,2 @@
+FROM coze-discord-proxy/docker-compose
+COPY ./app
